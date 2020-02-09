@@ -1,0 +1,2 @@
+1) epoch:10, steps: 125, nb_images: 2000  nb_validation: 3000 
+last) epoch: 80, number_images: 7629, batch_size: 20, nb_validation: 3000

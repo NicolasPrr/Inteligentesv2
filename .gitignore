@@ -1,0 +1,9 @@
+final/
+data/
+test/
+.*
+!.gitignore
+VGG_8.ipynb
+modelo2/
+modelo_final/
+modelo/
